@@ -1,6 +1,7 @@
  Hi there 👋
 I'm Odigie Trixie
-- 🌱 I’m currently learning Flutter mobile app development
+- I'm a Web Developer 
+- and I’m currently learning Flutter mobile app development
 <!--
 **trixieo/Trixieo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
